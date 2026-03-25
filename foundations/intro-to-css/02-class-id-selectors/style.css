@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+.oddNumberedElement{
+    background-color: rgb(235, 131, 153);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#secondElement{
+    color: #0000ff;
+    font-size: 36px;
+}
