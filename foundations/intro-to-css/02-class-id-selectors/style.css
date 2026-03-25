@@ -8,3 +8,12 @@
     color: #0000ff;
     font-size: 36px;
 }
+
+.secondElement + p, #fourthElement {
+    font-size: 24px
+}
+
+#fourthElement{
+    background-color: rgb(162, 218, 162);
+    font-weight: bold;
+}
